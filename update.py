@@ -21,7 +21,6 @@ import psutil
 from pycee.downloader import Downloader
 
 downloader = Downloader()
-MODULE_LOGGER = logging.getLogger('tdr.update')
 
 
 class FrameUI(wx.Frame):
