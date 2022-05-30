@@ -1,8 +1,4 @@
-"""
-A popup window to let user choose whether update or not. If user choose to update, then would download the new version
-of software, show the download progress bar, then unzip the downloaded file to override the source code when the download
-process is finished.
-"""
+
 import logging
 import os.path
 import re
